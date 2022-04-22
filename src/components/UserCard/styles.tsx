@@ -8,28 +8,27 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: center;
   margin: 10px;
   border: 2px solid lightskyblue;
   border-radius: 15px;
   //padding: 0.9rem;
 
   h1 {
-    font-size: 1.55rem;
+    font-size: 1.2rem;
     color: white;
     font-weight: 600;
     margin: 0;
   }
 
   h2 {
-    font-size: 1rem;
+    font-size: 0.7rem;
     color: white;
     font-weight: 600;
     margin: 0;
   }
 
   span {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
     color: #cecece;
     font-weight: 600;
     margin: 0;
@@ -68,7 +67,7 @@ export const TextContainer = styled.div`
 `;
 
 const iconCommonStyles = `
-  font-size: 1.5rem;
+  font-size: .9rem;
   color: blueviolet;
 `;
 
